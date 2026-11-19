@@ -8,16 +8,16 @@ The official Java library for accessing ModelArk on Volcengine and BytePlus. It 
 
 ```xml
 <dependency>
-    <groupId>com.volcengine</groupId>
+    <groupId>com.github.alotuser</groupId>
     <artifactId>ark-runtime</artifactId>
-    <version>0.17.0</version>
+    <version>0.17.7</version>
 </dependency>
 ```
 
 ### Gradle
 
 ```groovy
-implementation 'com.volcengine:ark-runtime:0.17.0'
+implementation 'com.github.alotuser:ark-runtime:0.17.7'
 ```
 
 ## Choose Volcengine or BytePlus
